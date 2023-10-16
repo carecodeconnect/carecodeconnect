@@ -92,7 +92,7 @@ stats](https://github-readme-stats.vercel.app/api?username=carecodeconnect&show_
 
 ## 📫 How to Reach Me
 
-You can find me on [[Twitter][1.2]][1], or on [[LinkedIn][2.2]][2].
+[My LinkedIn]([https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/stephen-s-91870527a/)https://www.linkedin.com/in/stephen-s-91870527a/)
 
 <!-- Icons -->
 
