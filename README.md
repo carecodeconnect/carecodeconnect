@@ -9,7 +9,7 @@ making.
 
 I specialize in bringing the tools of **computational social science** using `bash`, `R`, `Python`, and `SQL` into dialogue with insights from **social psychology**. I have a rich background in teaching, research, communication, and contributing to multi-disciplinary teams worldwide.
 
-I bring a unique perspective which infuses data-driven decisions - especially using natural language analysis, social mapping, and data visualisation - with understanding of **context**, **meaning**, and wider **social relevance**.
+I bring a unique perspective which infuses data-driven decisions - especially using natural language and interaction analysis, social mapping, and data visualisation - with understanding of **context**, **meaning**, and wider **social relevance**.
 
 My broad domain expertise spans **education**, **health & well-being**, and **politics**.
 
@@ -74,17 +74,17 @@ I hope you enjoy exploring my GitHub portfolio. Be sure to check back soon for u
 
 ```         
 🔍 Data/Information Research: Scientific research, literature reviews, scholarship.
-📑 Document Analysis: Expert in Content Analysis, Discourse Analysis, Textual Analysis, Thematic Analysis.
+📑 Document/Interaction Analysis: Expert in Content Analysis, Conversation Analysis, Discourse Analysis, Textual Analysis, Thematic Analysis.
 👥 Interviews/Surveys: Conducting interviews or surveys, gathering qualitative data.
 📊 Statistical Analysis: Working with statistical data, analysis, prediction.
 🔬 Experimental Research: Conducting practical, experimental work or studies in laboratory or field-based settings.
-🌐 Ethnography/Field Work: Immersive real-world data gathering.
+🌐 Ethnography/Field Work: Immersive real-world data gathering through participant observation and interviewing.
 🧪 Laboratory Research/Testing: Experiments, A/B testing, hypothesis testing.
 📝 Academic Writing/Reporting: Writing scientific articles, reporting on findings, publishing research.
 🗣️ Presentations/Conferences: Excellent English-language and communication skills.
-🤔 Problem Solving/Innovation: Complex problem-solving, data-driven decision making, innovative solutions.
-👂 Qualitative Research: Advanced interviewing, fieldwork, document analysis skills.
-🧮 Quantitative Research: Experiments, modeling, statistical programming.
+🤔 Problem Solving/Innovation: Complex problem-solving, data-driven decision making, innovating solutions.
+👂 Qualitative Research: Advanced interviewing, fieldwork, text and natural language analysis skills.
+🧮 Quantitative Research: Exploratory data analysis, experimentation, statistical learning, statistical programming, machine learning algorithms, data modeling, forecasting.
 ```
 
 ## 📈 My GitHub Stats
