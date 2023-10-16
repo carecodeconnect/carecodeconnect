@@ -54,7 +54,6 @@ I hope you enjoy exploring my GitHub portfolio. Be sure to check back soon for u
 🌐 Web Development: Interactive maps and web apps using Shiny.
 🧠 Artificial Intelligence: Machine learning with scikit-learn.
 🔒 Cybersecurity: Implementation of General Data Protection Regulation (GDPR).
-⚙️ Configuration/DevOps: Used for tasks related to setup, configuration, or DevOps.
 📊 Data Analysis: R with `tidyverse` and Python with `pandas` for data tidying, wrangling, and visualisation.
 🛠️ Tools/Platforms/OS: command line, MacOS, Linux.
 🚀 Software Design: bash, git, GitHub.
