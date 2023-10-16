@@ -1,3 +1,5 @@
+## Welcome to my GitHub portfolio 🤗
+
 Hello, folks! 👋
 
 My name is **Stephen**, I'm a data scientist, currently **Guest
@@ -59,7 +61,7 @@ I hope you enjoy exploring my GitHub portfolio. Be sure to check back soon for u
 🚀 Software Design: bash, git, GitHub.
 ```
 
-## 🔍 My Research Skills:
+## 🔍 My Research Skills
 
 ![](https://img.shields.io/badge/Research-Content_Analysis-informational?style=flat&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Research-Discourse_Analysis-informational?style=flat&logoColor=white&color=blueviolet)
