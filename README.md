@@ -7,7 +7,7 @@ Scientist** at *AB Klinisch-Psychologische Intervention*, Freie
 Universität, Berlin. I'm a social scientist and social psychologist by training, talented at uncovering hidden patterns in data, and influencing data-led decision
 making.
 
-I specialize in bringing the tools of **computational social science** using `bash`, `R`, `Python`, and `SQL` into dialogue with insights from **social psychology**. I have a rich background in teaching, research, communication, and contributing to multi-disciplinary teams worldwide.
+I specialize in bringing the tools of **computational social science** using `bash`, `Python`, `R`, and `SQL` into dialogue with insights from **social psychology**. I have a rich background in teaching, research, communication, and contributing to multi-disciplinary teams worldwide.
 
 I bring a unique perspective which infuses data-driven decisions - especially using natural language and interaction analysis, social mapping, and data visualisation - with understanding of **context**, **meaning**, and wider **social relevance**.
 
