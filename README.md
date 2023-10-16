@@ -92,7 +92,7 @@ stats](https://github-readme-stats.vercel.app/api?username=carecodeconnect&show_
 
 ## 📫 How to Reach Me
 
-![My LinkedIn](https://www.linkedin.com/in/stephen-s-91870527a/)
+[My LinkedIn](https://www.linkedin.com/in/stephen-s-91870527a/)
 
 <!-- Icons -->
 
