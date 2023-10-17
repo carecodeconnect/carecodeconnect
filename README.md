@@ -54,7 +54,7 @@ I hope you enjoy exploring my GitHub portfolio. Be sure to check back soon for u
 💾 Database: Data storage and database management using SQL.
 🖥️ Desktop Applications: Integrated Development Environments: Jupyter Lab, RStudio, Visual Studio Code.
 🌐 Web Development: Interactive maps and web apps using Shiny.
-🧠 Artificial Intelligence: Machine learning with scikit-learn.
+🧠 Artificial Intelligence: Machine learning with `Scikit-Learn`, `NumPy`, and `Matplotlib`.
 🔒 Cybersecurity: Implementation of General Data Protection Regulation (GDPR).
 📊 Data Analysis: R with `tidyverse` and Python with `pandas` for data tidying, wrangling, and visualisation.
 🛠️ Tools/Platforms/OS: command line, MacOS, Linux.
