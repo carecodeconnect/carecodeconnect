@@ -2,7 +2,7 @@
 
 Hello, folks! 👋
 
-My name is **Stephen**, I'm a data scientist, currently a Guest Scientist at Freie Universität, Berlin. I'm a social scientist and social psychologist by training, talented at uncovering hidden patterns in data, and influencing data-led decision making.
+My name is **Stephen**, I'm a data scientist, currently at Freie Universität, Berlin. I'm a social scientist and social psychologist by training, talented at uncovering hidden patterns in data, and influencing data-led decision making.
 
 I specialize in bringing the tools of **computational social science** using `bash`, `Python`, `R`, and `SQL` into dialogue with insights from **social psychology**. I have a rich background in teaching, research, communication, and contributing to multi-disciplinary teams worldwide.
 
