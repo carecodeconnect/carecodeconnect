@@ -89,9 +89,5 @@ I hope you enjoy exploring my GitHub portfolio. Be sure to check back soon for u
 ![GitHub
 stats](https://github-readme-stats.vercel.app/api?username=carecodeconnect&show_icons=true&theme=tokyonight)
 
-## 📫 How to Reach Me
-
-[My LinkedIn](https://www.linkedin.com/in/stephen-s-91870527a/)
-
 <!-- Icons -->
 
